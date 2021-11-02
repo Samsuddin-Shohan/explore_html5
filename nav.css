@@ -1,0 +1,16 @@
+nav a {
+  text-decoration: none;
+  color: green;
+}
+nav a:hover {
+  background-color: gray;
+}
+nav ul {
+  margin-top: 2%;
+}
+nav {
+  display: flex;
+}
+h1 {
+  margin: 3%;
+}
